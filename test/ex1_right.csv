@@ -1,0 +1,1001 @@
+id,country,city,countrycode,birthdate
+1,Netherlands Antilles,Yakutsk,NR,1933-06-21
+2,Greenland,Banjul,NC,1990-08-04
+3,South Georgia and the South Sandwich Islands,Vancouver,KH,1932-11-30
+4,Dominican Republic,Kolkata,MD,1904-08-07
+5,"Lao People""S Democratic Republic",Madrid,GL,1915-12-30
+6,Hungary,Veracruz,TZ,1918-02-23
+7,France,Portland,LV,1992-04-28
+8,"Korea, Republic of",Jaipur,GM,1912-09-14
+9,Niue,Phoenix,FO,1990-09-29
+10,Yemen,Lima,LT,1987-12-15
+11,Lesotho,Regina,LB,1980-01-07
+12,Martinique,Beijing,CM,1938-06-03
+13,"Macedonia, The Former Yugoslav Republic of",Sabha,CN,1994-03-22
+14,Bermuda,Valdivia,BV,1957-12-21
+15,Slovenia,Nantes,HT,2001-08-17
+16,Panama,Athens,CC,1952-10-28
+17,Antigua and Barbuda,Antofagasta,LS,1918-10-05
+18,Nicaragua,Belmopan,LY,1979-10-06
+19,Albania,Bern,TN,1986-01-14
+20,Puerto Rico,Jakarta,PW,1995-07-10
+21,Saudi Arabia,Nantes,PT,1982-06-17
+22,French Southern Territories,Vaduz,BB,1999-09-30
+23,Åland Islands,Incheon,BM,2009-08-27
+24,Bhutan,Addis Ababa,GD,1958-02-28
+25,Burundi,Quezon City,IT,1900-11-21
+26,Falkland Islands (Malvinas),Barranquilla,IQ,2006-06-23
+27,Cameroon,Recife,PR,1962-02-27
+28,Kyrgyzstan,Townsville,MX,2004-06-30
+29,Costa Rica,Guayaquil,AS,2016-12-06
+30,Jamaica,Pekanbaru,CS,1909-02-10
+31,Latvia,Lilongwe,SZ,1984-08-28
+32,Israel,Tucson,TZ,1985-08-14
+33,Turkey,Tegucigalpa,DM,1926-10-01
+34,Jersey,Peshawar,SH,1943-04-10
+35,Kiribati,Townsville,PN,1949-08-30
+36,Belize,Odessa,BG,1977-03-07
+37,Montserrat,Mata-Utu,KI,1906-12-30
+38,Cameroon,Geelong,SL,2017-07-09
+39,Nepal,Recife,MH,1967-05-15
+40,Saint Pierre and Miquelon,Manchester,SZ,2003-01-24
+41,Åland Islands,Liverpool,SL,1931-04-18
+42,Bermuda,Port-au-Prince,MU,1927-12-19
+43,Northern Mariana Islands,Harbin,LT,1953-10-22
+44,Bulgaria,Brikama,SA,1928-09-08
+45,Niger,Forked River,BS,1909-07-24
+46,Cape Verde,Hamilton,HK,1901-07-29
+47,"Congo, The Democratic Republic of the",Las Palmas de Gran Canaria,TM,1912-09-25
+48,Guinea,Murmansk,NZ,1943-12-04
+49,Gabon,Asmara,SC,1935-11-15
+50,Turkey,Funafuti,BB,1984-08-26
+51,Cameroon,Málaga,SR,1906-01-19
+52,Malta,Iquique,BN,1972-09-11
+53,Saint Vincent and the Grenadines,South Tarawa,DO,1956-09-06
+54,Sri Lanka,Houston,OM,1975-02-05
+55,Christmas Island,Francistown,AG,1967-06-01
+56,Guam,Nouakchott,MN,1926-08-11
+57,Guam,Changchun,QA,1974-01-25
+58,Malaysia,Porto Alegre,CD,1929-04-02
+59,United States,Lubumbashi,BG,1922-02-05
+60,Brunei Darussalam,Bogotá,MU,2012-04-25
+61,Maldives,Hilo,SN,2017-07-01
+62,"Virgin Islands, U.S.",Bujumbura,SV,1949-01-25
+63,Burundi,Mendoza,AS,1912-04-07
+64,Lithuania,Ulan Bator,IR,1902-03-11
+65,Liechtenstein,Nanning,AE,1996-06-04
+66,Tonga,Indianapolis,NU,1985-12-13
+67,Sri Lanka,Beirut,TR,2014-12-19
+68,Guyana,Brazzaville,BN,1984-11-10
+69,Sri Lanka,Ouagadougou,CM,2001-02-16
+70,Samoa,Kuwait City,BF,1968-08-15
+71,Trinidad and Tobago,Juneau,YT,1970-03-25
+72,Botswana,Albuquerque,PA,2002-05-15
+73,Burundi,Punta Arenas,ML,1984-07-17
+74,Netherlands Antilles,Nanning,MZ,2003-01-24
+75,Spain,Palma,LT,1923-06-18
+76,Oman,Nagpur,NF,1907-11-01
+77,Cuba,Tianjin,BT,1930-12-11
+78,Saint Vincent and the Grenadines,Washington,VC,2005-06-16
+79,Mayotte,New Delhi,MP,1908-05-03
+80,United States Minor Outlying Islands,Kota Kinabalu,FM,1973-10-09
+81,Uruguay,Quetzaltenango,JM,1940-02-21
+82,Luxembourg,Nashville,OM,1911-11-08
+83,Bangladesh,Kawasaki,NO,1921-12-21
+84,"Moldova, Republic of",Rabi Island,ET,1978-04-14
+85,Viet Nam,Cockburn Town,GF,1949-03-25
+86,Tonga,Sri Jayawardenapura-Kotte,SV,1933-01-30
+87,Philippines,Praia,CG,1947-08-09
+88,Angola,Toronto,RW,2010-06-24
+89,"Virgin Islands, U.S.",Blantyre,CG,1949-11-13
+90,Guatemala,Manama,GW,1919-07-18
+91,Togo,Murmansk,AM,1917-07-14
+92,Dominica,Dallas,ML,1952-10-26
+93,Canada,Virginia Beach,UZ,1908-12-30
+94,Brunei Darussalam,Edinburgh,JE,1986-05-24
+95,Macao,Doha,KP,2012-09-09
+96,Saint Pierre and Miquelon,Lucknow,AX,1904-03-03
+97,Djibouti,Sydney,TD,1963-02-13
+98,Bahrain,Toulouse,ZW,1911-07-21
+99,"Taiwan, Province of China",Yangon,MX,1903-09-23
+100,Bhutan,Kota Kinabalu,MN,1908-12-19
+101,Denmark,Banjul,US,2019-09-19
+102,Greece,Rawalpindi,ZA,1912-11-29
+103,Norfolk Island,Cuiabá,SA,2001-10-17
+104,Brunei Darussalam,Brussels,IE,1921-12-19
+105,"Congo, The Democratic Republic of the",Thimphu,NA,1928-01-02
+106,Angola,Astana,UZ,2001-01-11
+107,Svalbard and Jan Mayen,Mata-Utu,TG,1934-06-16
+108,"Palestinian Territory, Occupied",Bujumbura,MG,1932-05-15
+109,Antigua and Barbuda,Almaty,IL,1937-11-14
+110,Burundi,Nukuʻalofa,BR,1978-05-31
+111,Trinidad and Tobago,Palikir,TD,1921-11-26
+112,Slovenia,Quezon City,NO,1992-07-30
+113,Bosnia and Herzegovina,Kigali,AG,2004-05-02
+114,Djibouti,Papeete,CK,1942-07-28
+115,Bulgaria,Jamestown,GW,2016-08-04
+116,Åland Islands,Maceió,HR,1988-11-27
+117,Samoa,Darwin,WS,1996-10-27
+118,Belarus,Alexandria,AF,2001-09-02
+119,"Virgin Islands, U.S.",Málaga,MR,1947-12-28
+120,Mongolia,Wellington,RE,2014-07-29
+121,United Kingdom,Belém,CL,1926-02-18
+122,"Virgin Islands, U.S.",Freetown,FO,2008-04-16
+123,Denmark,Minsk,SZ,1979-06-03
+124,Wallis and Futuna,Rio Branco,FI,2013-09-29
+125,"Lao People""S Democratic Republic",Malabo,IQ,1943-09-26
+126,Bolivia,Semarang,MY,1956-12-30
+127,Guatemala,Budapest,PE,1973-06-22
+128,Namibia,Quebec City,PT,1941-11-18
+129,Greece,Fukuoka,NU,1936-06-02
+130,Kuwait,Las Palmas de Gran Canaria,SG,2000-05-05
+131,Papua New Guinea,Riga,SA,1986-03-02
+132,Syrian Arab Republic,Lahore,GF,1943-03-30
+133,Cook Islands,Graz,MN,1949-04-22
+134,Saint Pierre and Miquelon,Iquique,MX,1979-06-19
+135,Chad,Bulawayo,MR,1962-07-18
+136,Cape Verde,Pristina,KP,1997-06-19
+137,British Indian Ocean Territory,Kanpur,NL,1906-08-14
+138,Guinea-Bissau,Malang,LU,2000-03-30
+139,Cayman Islands,Pontianak,FJ,2002-03-27
+140,Yemen,Agartala,DJ,2008-02-13
+141,Samoa,Beirut,DM,1960-07-11
+142,Benin,Strasbourg,UY,1913-06-06
+143,Kuwait,Jacksonville,GB,1997-03-08
+144,Congo,Quetzaltenango,US,1906-02-05
+145,Portugal,Pristina,US,1905-11-13
+146,Turkey,Arequipa,NU,1990-02-21
+147,Puerto Rico,Kuwait City,JM,1925-07-02
+148,Azerbaijan,Guayaquil,GP,1957-06-14
+149,Sweden,Bangui,GT,1936-03-06
+150,"Korea, Republic of",Madrid,BG,1939-07-14
+151,Sierra Leone,Vientiane,SL,1972-03-03
+152,Benin,Pekanbaru,MC,1991-06-10
+153,Paraguay,Hat Yai,GS,1912-11-06
+154,Swaziland,Bandar Seri Begawan,PT,1919-09-17
+155,Guyana,Zamboanga City,MT,1944-10-06
+156,Slovakia,Salt Lake City,PG,1945-09-11
+157,French Polynesia,Port Elizabeth,PN,1955-11-30
+158,New Caledonia,Timbuktu,BZ,1957-04-23
+159,Gibraltar,Palikir,VA,1924-07-17
+160,Falkland Islands (Malvinas),Linz,FR,1988-03-23
+161,Jamaica,Sabha,FR,1953-02-18
+162,Niger,Malacca Town,GH,1932-02-07
+163,Kiribati,Jacksonville,PW,1950-06-06
+164,Jamaica,Sukhumi,VI,1984-08-22
+165,Jamaica,Guatemala City,MT,1956-12-12
+166,Burundi,Córdoba,VG,1998-09-09
+167,Cambodia,Accra,ZA,1983-08-01
+168,Poland,Los Angeles,SO,1999-10-21
+169,Aruba,Handan,SD,2011-07-03
+170,Grenada,Moscow,LY,1912-01-02
+171,Maldives,Mwanza,TF,1973-02-05
+172,Saint Pierre and Miquelon,Perth,IR,1929-06-17
+173,Suriname,Shenzhen,AL,1973-01-07
+174,Lebanon,Caracas,MQ,1952-03-11
+175,Jordan,Malmö,AM,2006-03-06
+176,Iceland,Luanda,PM,1916-02-04
+177,Afghanistan,Semarang,NP,1983-10-18
+178,Falkland Islands (Malvinas),Kunming,IE,1938-06-06
+179,Brazil,El Aaiún,NE,1972-04-26
+180,Mauritania,Abu Dhabi,PG,1919-07-21
+181,Cuba,Tallinn,MG,1907-02-03
+182,Martinique,Aberdeen,GL,1938-01-28
+183,Benin,Porto-Novo,NI,1945-08-09
+184,Reunion,Shanghai,VU,2001-10-03
+185,Saint Helena,Enugu,LB,1999-02-15
+186,Swaziland,Sukhumi,UY,1926-06-06
+187,Reunion,N'Djamena,TH,1955-02-24
+188,Brazil,Puebla,LS,1948-10-08
+189,Costa Rica,Fairbanks,PA,1993-02-22
+190,Guam,Raleigh,YE,1990-08-20
+191,Mali,Townsville,TG,1985-02-10
+192,United Arab Emirates,Johannesburg,TR,1990-09-10
+193,Guinea,Sucre,AL,1934-03-15
+194,Kuwait,Quetzaltenango,AR,1925-09-14
+195,"Tanzania, United Republic of",Cayenne,AT,2003-11-25
+196,Bahrain,Santiago de Cuba,SH,1994-06-07
+197,Malta,Busan,LU,1917-05-26
+198,Sweden,Bangalore,AF,1994-10-16
+199,Malawi,Cairo,TO,2010-04-07
+200,Christmas Island,Minsk,BA,1997-06-01
+201,Sao Tome and Principe,Bulawayo,CI,2000-01-09
+202,Hungary,Karachi,MU,1991-04-10
+203,Guernsey,Minsk,TM,1956-06-05
+204,Kenya,New Delhi,LK,1904-09-21
+205,Sao Tome and Principe,Omdurman,ML,1976-11-19
+206,Ukraine,Mendoza,KM,1982-07-24
+207,United States,Nagoya,WF,1937-02-14
+208,Guatemala,Malabo,BJ,2018-10-18
+209,Mozambique,Tagbilaran,PN,2012-07-29
+210,Cameroon,Pyongyang,GU,1910-08-14
+211,Benin,Charlottetown,GI,2001-07-13
+212,Lesotho,Montreal,KE,2019-02-03
+213,Latvia,Tashkent,IR,1982-03-13
+214,"Congo, The Democratic Republic of the",Vitória,MA,1936-05-19
+215,Oman,Bursa,LR,1974-05-23
+216,Malaysia,Whitehorse,PM,1941-10-16
+217,Liechtenstein,Regina,KG,1930-02-24
+218,Egypt,Minsk,SK,1943-05-06
+219,Qatar,Mbabane,MY,2018-05-10
+220,Estonia,Riverside,SZ,1918-07-01
+221,Central African Republic,Porto,RW,1960-07-21
+222,Antarctica,Kolkata,MD,1901-12-16
+223,Heard Island and Mcdonald Islands,Abidjan,BG,1930-12-05
+224,Cocos (Keeling) Islands,Marseille,JE,1950-01-18
+225,Myanmar,Sabha,LK,1979-04-07
+226,Papua New Guinea,El Aaiún,BR,1938-11-29
+227,Myanmar,Kanpur,IT,1971-11-06
+228,Lithuania,Lomé,DM,1999-06-28
+229,Canada,Labasa,KE,1934-09-15
+230,Luxembourg,Damascus,GA,1946-10-08
+231,Sudan,Baghdad,AT,1961-09-11
+232,Russian Federation,Sana'a,SN,1988-01-01
+233,Costa Rica,Palikir,BZ,2008-03-07
+234,Gibraltar,Leeds,CG,1918-08-30
+235,Paraguay,Khartoum,ML,1927-02-14
+236,Guadeloupe,Tucson,LY,2002-11-14
+237,"Korea, Republic of",Wonsan,ES,2017-06-11
+238,Tuvalu,Malmö,NE,1958-11-02
+239,Afghanistan,Sofia,CS,1966-02-23
+240,Guinea-Bissau,Hai Phong,KY,1931-01-15
+241,Switzerland,Brisbane,VC,1998-04-21
+242,Mexico,Ibadan,TO,1959-12-05
+243,Niue,Sofia,AD,1940-04-23
+244,Papua New Guinea,Bangkok,HM,1942-08-19
+245,Seychelles,Wollongong,MC,1992-03-09
+246,Papua New Guinea,Blantyre,GT,1978-06-28
+247,Afghanistan,Angra do Heroísmo,GM,2014-06-29
+248,Dominica,Bridgetown,BZ,1974-03-01
+249,South Georgia and the South Sandwich Islands,Dushanbe,ER,1942-10-28
+250,Kyrgyzstan,San Carlos de Bariloche,CG,1950-03-30
+251,Argentina,Kingston,GT,1994-11-28
+252,Dominica,Nukus,TH,1906-11-25
+253,Comoros,El Aaiún,NG,1936-04-09
+254,Maldives,Kinshasa,VU,1904-10-10
+255,Reunion,Kawasaki,IO,2008-09-27
+256,Equatorial Guinea,Nouakchott,NA,1942-08-15
+257,Lithuania,Marseille,GN,1951-12-25
+258,"Moldova, Republic of",Nizhny Novgorod,BI,1927-05-15
+259,United Kingdom,Amritsar,FO,1944-12-20
+260,Ecuador,Tórshavn,TL,1914-04-15
+261,Czech Republic,Port Moresby,AI,1949-12-28
+262,Zimbabwe,Avarua,GG,1958-12-26
+263,Grenada,Hai Phong,TF,1976-06-17
+264,Saint Pierre and Miquelon,South Tarawa,AE,1958-03-21
+265,Cyprus,The Valley,ML,1958-01-05
+266,Trinidad and Tobago,Manila,MX,1914-03-10
+267,Germany,Libreville,VE,1952-07-14
+268,Heard Island and Mcdonald Islands,Palma,HN,2009-06-15
+269,Albania,Wuhan,TW,1961-04-17
+270,Burundi,Macau,ST,1906-11-12
+271,Falkland Islands (Malvinas),Kandahar,PH,1927-07-28
+272,Syrian Arab Republic,Fairbanks,VI,1904-02-04
+273,Tokelau,Puebla,DO,1958-02-20
+274,Bhutan,Budapest,EH,1908-10-12
+275,Dominica,Gaza,QA,1948-12-07
+276,Romania,Adelaide,CG,1910-01-21
+277,Northern Mariana Islands,Munich,MV,2010-06-12
+278,Mongolia,Hong Kong,KY,1911-11-13
+279,Faroe Islands,Dededo,EC,2019-01-21
+280,United Kingdom,Dakar,NF,1947-11-18
+281,Finland,Chongjin,US,2004-08-26
+282,Mozambique,Yamoussoukro,LU,1990-08-24
+283,Bolivia,Ibiza,KN,1912-12-06
+284,Somalia,Kota Bharu,FM,1955-03-09
+285,Cameroon,Fort-de-France,GI,1951-08-04
+286,Hong Kong,Koulikoro,VG,1979-03-31
+287,Ecuador,Perm,LK,1923-04-23
+288,Romania,Asmara,ST,1905-02-09
+289,"Cote D""Ivoire",Phuket (city),IE,1992-12-17
+290,"Macedonia, The Former Yugoslav Republic of",Oranjestad,BZ,1969-05-21
+291,Iraq,St. Louis,GP,1911-05-06
+292,Indonesia,Kansas City,LK,1994-09-29
+293,United Kingdom,Gaza,CL,1912-07-15
+294,French Guiana,Namangan,HM,2000-12-14
+295,Italy,Koulikoro,CA,1957-11-17
+296,Panama,Hanga Roa,GI,1924-08-14
+297,Malaysia,Charlotte Amalie,EC,2001-03-26
+298,Spain,N'Djamena,NL,1910-02-22
+299,Cayman Islands,Adelaide,BJ,1913-01-08
+300,Guadeloupe,Fort-de-France,IL,1936-03-31
+301,Gabon,Malabo,TW,1919-12-25
+302,Pakistan,Mata-Utu,UM,1994-08-20
+303,Congo,Ulan Bator,MY,1928-01-07
+304,Pakistan,Madrid,UM,1967-05-05
+305,Timor-Leste,Ipoh,MY,1996-01-31
+306,Western Sahara,Petropavlovsk-Kamchatsky,BM,2000-11-01
+307,"Taiwan, Province of China",Yamoussoukro,ZW,1929-04-22
+308,Cameroon,Recife,RW,1969-06-25
+309,Turks and Caicos Islands,Khartoum,GS,1978-03-13
+310,Algeria,Jacksonville,FI,1968-03-07
+311,Wallis and Futuna,Brussels,NU,1941-09-13
+312,Cape Verde,Changchun,UG,1921-07-05
+313,United Kingdom,Abu Dhabi,FJ,1961-04-29
+314,Argentina,Nanning,EE,2001-05-20
+315,Guatemala,Maseru,PN,1912-02-17
+316,Antigua and Barbuda,Memphis,IE,1905-04-27
+317,Turks and Caicos Islands,Conakry,UA,1977-11-08
+318,Zimbabwe,Algiers,NI,1955-04-30
+319,Niger,Manchester,JP,1951-10-30
+320,Slovenia,Davao City,GA,1980-05-03
+321,Thailand,Dalian,GM,1937-05-15
+322,French Polynesia,N'Djamena,SI,1970-04-08
+323,Afghanistan,Porto Velho,AE,2000-10-30
+324,Cape Verde,Fortaleza,HN,1909-02-20
+325,Burkina Faso,Yaoundé,SC,1973-07-26
+326,Croatia,Udon Thani,MX,1915-02-27
+327,Turkey,Chihuahua,BN,1910-05-13
+328,"Palestinian Territory, Occupied",San Diego,LB,1933-09-03
+329,Swaziland,Bulawayo,LB,1900-12-28
+330,Lesotho,Montevideo,YE,1984-11-28
+331,Madagascar,Baku,CL,1993-11-08
+332,Zambia,Dongguan,TG,2005-10-15
+333,Turkey,Banjul,IE,1986-07-23
+334,Algeria,Edmonton,TT,1921-05-30
+335,Canada,Konya,IL,1921-04-01
+336,Niger,Rabi Island,MY,1986-09-25
+337,Niue,Curitiba,BS,1990-07-01
+338,Aruba,Makassar,BG,1925-12-09
+339,Falkland Islands (Malvinas),Kabul,HT,1970-12-23
+340,South Georgia and the South Sandwich Islands,Cartagena,GB,1991-07-07
+341,Portugal,Tallinn,YT,1999-03-29
+342,Mauritania,Santiago,GR,1956-09-04
+343,Mozambique,Saskatoon,PS,1996-04-07
+344,Nicaragua,Medan,YE,1919-05-19
+345,Comoros,Hiroshima,NE,1954-11-16
+346,Papua New Guinea,Livingstone,SI,1909-04-02
+347,Tonga,Lubumbashi,GY,2003-05-26
+348,Saint Kitts and Nevis,Busan,TJ,1976-09-03
+349,American Samoa,Kano,SC,1940-06-25
+350,Jamaica,Malabo,GU,1908-05-12
+351,Turks and Caicos Islands,Tashkent,JE,1993-03-13
+352,Pitcairn,Dresden,VC,1983-10-21
+353,Morocco,Ciudad del Este,PY,1997-09-18
+354,"Korea, Republic of",Gangtok,BD,2011-11-09
+355,Bahrain,Miri,BO,1921-04-19
+356,Switzerland,Alexandria,YT,1933-11-24
+357,China,Sofia,NE,1957-11-01
+358,Costa Rica,Mecca,VG,1999-05-08
+359,Cambodia,Innsbruck,PS,1977-03-06
+360,Suriname,Winnipeg,IE,2008-08-08
+361,Bolivia,Adamstown,GY,1994-03-02
+362,Egypt,Ouagadougou,AD,1943-03-28
+363,Maldives,Atlanta,CC,2015-04-29
+364,Afghanistan,Gaza,NI,1979-01-09
+365,Spain,Marrakech,VI,1988-03-07
+366,Marshall Islands,Alofi,TR,1956-12-12
+367,Mozambique,Denver,TF,1989-02-05
+368,Anguilla,Chicago,SN,1943-08-14
+369,Denmark,Kraków,SV,1936-11-23
+370,Swaziland,Ponta Delgada,MA,1959-01-25
+371,Djibouti,Hai Phong,ZM,1994-01-20
+372,Benin,Rio Branco,TT,1907-08-21
+373,Vanuatu,Ambon,UM,1911-05-05
+374,Russian Federation,Campinas,NU,1901-04-17
+375,Sao Tome and Principe,Alexandria,GE,1953-01-24
+376,Montserrat,Kolkata,CU,2004-01-09
+377,Niger,Jersey City,DO,1931-06-03
+378,"Congo, The Democratic Republic of the",Lima,ER,1936-06-14
+379,Anguilla,Kabul,CM,2006-06-02
+380,Spain,Veracruz,GH,1912-12-23
+381,Mali,Quito,BF,2005-10-19
+382,Uzbekistan,Porto Alegre,UM,1971-10-14
+383,Czech Republic,Tegucigalpa,KN,1941-12-16
+384,Croatia,Tehran,SM,1938-05-10
+385,Cambodia,Malmö,PE,1949-11-13
+386,"Cote D""Ivoire",Cebu City,ST,1902-06-19
+387,Kyrgyzstan,Agartala,UZ,1956-07-24
+388,Norfolk Island,Sucre,MU,1917-02-04
+389,French Southern Territories,Gaziantep,SH,1925-08-15
+390,China,Khartoum,LI,2007-11-12
+391,Comoros,Las Palmas de Gran Canaria,MW,1949-07-18
+392,Poland,Montreal,UM,1906-05-20
+393,Grenada,Kingstown,LC,1911-07-13
+394,Lithuania,Pattaya,PT,1970-08-15
+395,Papua New Guinea,Stuttgart,TG,1906-01-24
+396,British Indian Ocean Territory,Mersin,BW,2003-06-21
+397,Christmas Island,South Tarawa,PF,1914-03-14
+398,El Salvador,Hargeisa,AG,1924-02-28
+399,Antigua and Barbuda,Lanzhou,BT,1996-08-28
+400,Niue,Omdurman,SZ,1955-06-18
+401,Afghanistan,Lagos,MQ,1995-06-08
+402,Eritrea,Kaesong,CX,1991-04-01
+403,Belize,Aberdeen,BH,2008-03-17
+404,RWANDA,Havana,TK,1937-07-12
+405,Turkey,Washington,EH,1961-10-24
+406,Aruba,Wuhan,DM,2011-11-03
+407,Ecuador,Naples,RU,1922-10-25
+408,Malawi,Chongjin,LB,1990-09-01
+409,Guyana,Sri Jayawardenapura-Kotte,PY,1958-09-09
+410,Libyan Arab Jamahiriya,Basra,BH,1962-10-28
+411,Germany,Paramaribo,HR,1923-12-04
+412,South Africa,Montreal,BT,1939-02-27
+413,Trinidad and Tobago,Arequipa,MO,1989-05-03
+414,Zimbabwe,Bangalore,MP,1999-03-14
+415,Cocos (Keeling) Islands,Kathmandu,CM,1958-08-10
+416,Qatar,Kyoto,AN,1956-05-04
+417,Afghanistan,New York City,PN,1960-07-22
+418,Cape Verde,Sapporo,UA,1907-02-25
+419,Austria,Thessaloniki,MY,1965-06-28
+420,Antigua and Barbuda,Recife,JO,2013-03-29
+421,Antarctica,Hagåtña,AS,1997-03-22
+422,"Micronesia, Federated States of",Oklahoma City,MR,1973-09-11
+423,Dominica,Tripoli,CM,1987-08-20
+424,Isle of Man,Longyearbyen,MX,1904-08-15
+425,Anguilla,Stockholm,MQ,1990-09-17
+426,Russian Federation,Bloemfontein,JO,1969-04-22
+427,"Taiwan, Province of China",Vientiane,CS,1967-02-25
+428,Bouvet Island,Düsseldorf,KH,1966-12-08
+429,Dominican Republic,Strasbourg,AL,2019-08-15
+430,"Tanzania, United Republic of",Nukus,CG,2007-09-06
+431,AndorrA,Belize City,US,1920-11-06
+432,Western Sahara,Batticaloa,GH,1988-09-03
+433,China,Detroit,AG,1922-10-15
+434,Saint Helena,Valdivia,PS,1994-11-04
+435,Burkina Faso,Bahía Blanca,TZ,1996-02-06
+436,Russian Federation,Nashville,KG,2001-04-19
+437,Pitcairn,Belmopan,BM,1919-04-11
+438,Myanmar,Macapá,BS,1939-01-05
+439,Germany,Phuket (city),TW,2017-01-27
+440,Saint Pierre and Miquelon,Daegu,BR,1911-09-14
+441,"Moldova, Republic of",Birmingham,ES,1966-06-04
+442,Portugal,Indianapolis,BJ,1905-01-22
+443,Estonia,Omsk,NP,1966-05-28
+444,Serbia and Montenegro,Málaga,KE,1997-11-19
+445,Belgium,Jamestown,GB,1976-09-23
+446,French Southern Territories,Mamoudzou,NC,1987-11-15
+447,Reunion,Milwaukee,LT,1914-09-26
+448,Argentina,Buffalo,VA,1938-11-04
+449,Belarus,Santo Domingo,FO,1901-06-09
+450,South Africa,Francistown,AW,1916-04-26
+451,United Kingdom,Tampere,PN,1992-01-22
+452,American Samoa,Liverpool,GW,1971-04-24
+453,Cambodia,Port Blair,PN,1989-06-20
+454,Argentina,Dar es Salaam,LY,1965-09-02
+455,Malaysia,Miri,CS,1985-09-30
+456,Lesotho,Nanjing,AI,1968-10-01
+457,Chad,Livingstone,HM,2018-12-11
+458,Tonga,Auckland,UZ,1937-12-20
+459,Zimbabwe,Mecca,GT,2015-01-06
+460,Lesotho,Hangzhou,PM,2002-01-20
+461,Jamaica,Timbuktu,AR,1948-07-09
+462,Reunion,Port Said,KP,1913-01-31
+463,Saint Kitts and Nevis,Pelotas,SJ,1973-07-19
+464,Czech Republic,Whitehorse,US,1965-08-11
+465,Cameroon,Patna,ML,1958-05-10
+466,Syrian Arab Republic,St. John's,LU,1927-09-25
+467,Bouvet Island,Mandurah,ER,1952-06-28
+468,Comoros,Bandung,SY,1927-04-21
+469,Congo,Montreal,CH,1980-05-16
+470,Burundi,Mérida,RO,1929-12-17
+471,Nigeria,El Paso,AG,1942-11-08
+472,El Salvador,St. George's,LR,1959-07-22
+473,Guadeloupe,Hanga Roa,JE,1902-06-24
+474,Kyrgyzstan,Shenzhen,OM,1949-01-22
+475,Luxembourg,Yokohama,GN,1968-04-12
+476,"Palestinian Territory, Occupied",San Antonio,CS,1993-07-16
+477,Germany,Faisalabad,AX,1933-08-19
+478,Bulgaria,Quetzaltenango,VN,1992-08-17
+479,Japan,Rochester,EE,1956-06-22
+480,Eritrea,Belize City,NP,1975-12-04
+481,Iraq,Honolulu,GF,1928-01-26
+482,Viet Nam,Porto Velho,CV,1944-03-02
+483,United States,Makati City,IE,1982-05-10
+484,Cuba,Greenwich,BD,1990-07-19
+485,Iraq,Baku,SZ,1990-06-22
+486,"Macedonia, The Former Yugoslav Republic of",Douglas,GP,1965-08-16
+487,Kiribati,Nukulaelae,SK,1936-05-12
+488,Zambia,Basse-Terre,GR,1932-02-11
+489,Latvia,Bogor,AX,1930-02-17
+490,"Micronesia, Federated States of",Batticaloa,IT,1960-02-18
+491,Spain,Port Moresby,BV,1939-02-12
+492,South Africa,Gaziantep,NC,1943-09-22
+493,United States Minor Outlying Islands,Mérida,KW,1911-04-04
+494,Belize,Campo Grande,ZA,1916-09-15
+495,Holy See (Vatican City State),Mérida,MM,1975-06-21
+496,Tokelau,Damascus,GQ,1980-02-13
+497,Grenada,Wuhan,HR,1959-07-22
+498,Ghana,Dubai,GS,1978-11-18
+499,Bouvet Island,Agartala,LS,1952-09-12
+500,Mongolia,Kinshasa,CG,1935-08-26
+501,Christmas Island,Medan,JP,1941-08-23
+502,Åland Islands,Angra do Heroísmo,NU,1951-11-01
+503,Malawi,Fortaleza,NO,1940-09-16
+504,Yemen,Maseru,AG,2014-06-27
+505,Honduras,Pekanbaru,SD,1928-09-01
+506,Saint Lucia,Abu Dhabi,NU,1992-09-23
+507,South Georgia and the South Sandwich Islands,Naypyidaw,SR,2006-12-01
+508,Vanuatu,Bratsk,TF,2004-07-06
+509,Romania,Damascus,JO,1981-04-16
+510,Romania,Jamestown,KP,1926-09-10
+511,Mozambique,Enugu,GU,1942-09-14
+512,Bahrain,Bridgetown,AZ,1945-08-30
+513,Hong Kong,Hat Yai,SH,1924-11-21
+514,Albania,Quezon City,CA,1970-08-11
+515,"Cote D""Ivoire",Tabriz,PR,1987-10-21
+516,Lithuania,Dhaka,LY,1977-08-15
+517,Ecuador,Hargeisa,TV,1998-12-05
+518,Finland,Kuching,BT,1939-11-28
+519,Mozambique,Malacca Town,MY,2000-04-11
+520,United Kingdom,Vienna,SY,1947-12-24
+521,Romania,Barranquilla,GP,1941-12-12
+522,Antarctica,Tripoli,CU,1980-03-31
+523,Bosnia and Herzegovina,Macau,PW,1984-12-09
+524,Mexico,Las Vegas,PH,2008-12-12
+525,Oman,Baltimore,MV,1981-05-08
+526,Peru,Tartu,NI,1962-11-13
+527,South Georgia and the South Sandwich Islands,Kabul,AT,1962-05-14
+528,"Korea, Republic of",Kandahar,PA,1918-03-03
+529,Kenya,Porto Velho,EG,2004-09-16
+530,Turkey,Apia,NZ,1939-08-15
+531,Belize,Medina,TD,2004-07-09
+532,Mozambique,Manzini,KN,2001-03-12
+533,Paraguay,Zapopan,KZ,1987-09-05
+534,Canada,Tel Aviv,TV,1972-09-21
+535,Nicaragua,Las Palmas de Gran Canaria,CK,1988-10-16
+536,Greenland,Tianjin,SG,1911-02-18
+537,Timor-Leste,Paris,MG,1968-01-08
+538,San Marino,Lhasa,UM,2019-02-26
+539,"Tanzania, United Republic of",Beirut,PE,2014-09-29
+540,Poland,Islamabad,NG,1909-12-19
+541,United States,Saint Petersburg,LA,1997-08-11
+542,United Arab Emirates,Manila,LY,1984-07-20
+543,Swaziland,San Salvador,FR,1938-04-20
+544,Poland,Livingstone,JP,1921-02-18
+545,Ghana,Tamale,ST,1990-11-12
+546,Solomon Islands,Addis Ababa,MT,1927-10-08
+547,United States,Kandy,AG,2019-05-17
+548,Zimbabwe,Livingstone,GW,2011-09-09
+549,Norfolk Island,Pontianak,FR,1963-08-20
+550,Barbados,Bandar Seri Begawan,CG,1951-01-11
+551,Netherlands,New Delhi,GD,1965-10-04
+552,Saudi Arabia,Handan,SR,2007-03-16
+553,"Moldova, Republic of",Cali,ZM,1948-09-07
+554,Qatar,Rabi Island,AS,1982-09-12
+555,Mayotte,Barcelona,AM,1978-10-22
+556,Panama,Monaco,CX,1929-07-14
+557,Norfolk Island,Bissau,IO,2017-03-27
+558,United Kingdom,Papeete,MX,1969-02-14
+559,Sri Lanka,Los Angeles,VA,1945-07-13
+560,Samoa,Hilo,MZ,1904-02-08
+561,Burkina Faso,Amman,BO,1901-03-19
+562,Albania,Malacca Town,GM,1975-06-06
+563,United Arab Emirates,Nanning,PE,1936-12-17
+564,Senegal,Mwanza,BY,2015-04-12
+565,Papua New Guinea,Kuala Lumpur,MP,1905-03-18
+566,Saint Pierre and Miquelon,Bloemfontein,LV,1974-01-16
+567,Tokelau,Hamburg,JO,1923-05-26
+568,Ecuador,Udon Thani,UG,1909-02-08
+569,Venezuela,Hat Yai,FI,1926-02-22
+570,Djibouti,Dongguan,EH,1961-03-14
+571,Reunion,Kota Kinabalu,UY,1966-04-26
+572,Colombia,Cockburn Town,PY,1900-01-20
+573,United Kingdom,Asunción,HK,1905-12-01
+574,Netherlands Antilles,San Juan,CS,1937-03-31
+575,Saint Lucia,Milwaukee,CA,1940-11-14
+576,Sierra Leone,Omsk,SN,1905-07-05
+577,Fiji,Hanoi,ID,1959-08-11
+578,Gambia,Kinshasa,KW,1904-08-30
+579,Fiji,Tripoli,FJ,2013-07-07
+580,Austria,Saint John,ZM,1944-08-03
+581,Azerbaijan,The Hague,VU,1992-05-08
+582,French Polynesia,Mata-Utu,MW,1984-11-13
+583,Syrian Arab Republic,Dili,AE,1965-11-19
+584,Benin,Port Elizabeth,MV,1993-08-08
+585,United Kingdom,Ljubljana,KG,1969-04-21
+586,French Polynesia,Malacca Town,BB,2011-01-26
+587,Central African Republic,Cebu City,TH,1990-03-08
+588,Netherlands Antilles,Mexico City,MR,2001-07-24
+589,Somalia,Norilsk,KG,1945-06-06
+590,Brazil,Funafuti,BE,1900-02-21
+591,France,Birmingham,PY,1970-04-02
+592,Slovenia,Samara,SG,1970-07-28
+593,"Virgin Islands, British",Roseau,NF,1989-03-30
+594,Slovenia,Nantes,ID,1913-12-05
+595,Macao,Padang,GM,1958-04-14
+596,Honduras,Tartu,RU,1992-12-14
+597,Macao,Forked River,YE,1918-05-22
+598,"Palestinian Territory, Occupied",Ilhéus,BR,2004-04-26
+599,Costa Rica,Boston,SL,1955-07-04
+600,Ukraine,Dunedin,TT,1953-03-06
+601,Equatorial Guinea,Bursa,GL,1974-02-23
+602,Comoros,Lima,AI,1933-04-13
+603,"Tanzania, United Republic of",Las Vegas,BI,1946-09-20
+604,Kazakhstan,Las Palmas de Gran Canaria,VU,1964-07-14
+605,Gibraltar,Malacca Town,GN,1982-12-05
+606,Iceland,Calgary,CZ,1931-11-07
+607,Viet Nam,Auckland,TF,1985-11-11
+608,Afghanistan,Graz,BB,1990-11-01
+609,Falkland Islands (Malvinas),Guayaquil,LI,1957-03-09
+610,Guinea,Paris,RW,2018-09-16
+611,Cambodia,Santa Cruz de la Sierra,BT,1970-02-04
+612,Gabon,Wellington,AF,1926-12-05
+613,Slovakia,Chişinău,EH,1983-05-24
+614,Serbia and Montenegro,The Hague,UM,1905-01-17
+615,Saint Vincent and the Grenadines,Phnom Penh,NE,1966-03-06
+616,Liechtenstein,Harbin,NA,2016-05-14
+617,Liechtenstein,Nukus,TL,2016-06-04
+618,Angola,Rochester,AQ,1902-09-17
+619,Cuba,Nakhon Ratchasima,WF,1930-08-13
+620,Armenia,Road Town,MW,1955-06-07
+621,Oman,Calama,MM,1934-10-06
+622,Chile,La Serena,GH,1953-12-19
+623,Tajikistan,Jakarta,AQ,1960-12-12
+624,Sierra Leone,Adamstown,BM,1953-08-06
+625,Slovakia,Porto Alegre,JM,1971-04-05
+626,Guernsey,Havana,LB,1975-05-19
+627,Bangladesh,Tirana,IE,1944-12-15
+628,Tuvalu,Dakar,NL,1940-01-01
+629,Mexico,Lhasa,ST,1929-02-16
+630,Philippines,Okinawa,GL,1929-10-13
+631,Jamaica,Madrid,TF,1930-09-26
+632,Gibraltar,Bujumbura,NU,1959-10-20
+633,Japan,Concepción,KM,2013-12-05
+634,Pitcairn,Milan,AT,1984-05-16
+635,Sao Tome and Principe,Hilo,KW,1983-05-10
+636,Afghanistan,Tartu,GU,1963-08-15
+637,Lithuania,Calama,BN,2016-09-09
+638,Northern Mariana Islands,Medellín,IR,1929-12-08
+639,Guadeloupe,Banda Aceh,TZ,2004-10-19
+640,Cook Islands,Hyderabad,UY,1943-11-07
+641,Costa Rica,Astana,ES,1953-05-18
+642,Norfolk Island,Cannes,FR,1987-10-06
+643,Pakistan,Chişinău,GF,1978-03-07
+644,Finland,Guayaquil,TN,1904-06-02
+645,Peru,Kawasaki,CL,1900-09-04
+646,Samoa,Amman,NI,1909-11-09
+647,Papua New Guinea,Memphis,GN,1937-03-30
+648,Belize,Dodoma,HU,1997-05-16
+649,Indonesia,Cartagena,MY,2005-03-13
+650,Nauru,Shijiazhuang,BG,1949-02-07
+651,Iceland,Santo Domingo,MQ,1943-10-24
+652,Christmas Island,Basse-Terre,GB,2014-10-10
+653,Guinea,Kunming,UA,1950-11-21
+654,Cape Verde,Phoenix,PN,1945-04-17
+655,Bouvet Island,South Tarawa,CO,2005-07-03
+656,Paraguay,San Fernando,BG,1938-02-25
+657,Finland,Malacca Town,CS,1982-05-03
+658,Cape Verde,Linz,BA,1982-05-09
+659,Anguilla,San Antonio,TD,2009-10-02
+660,Spain,Kingston,GL,1915-07-17
+661,Namibia,Houston,VE,1911-08-29
+662,Reunion,Oklahoma City,AG,1928-06-07
+663,"Taiwan, Province of China",Daegu,BB,1973-11-17
+664,Saudi Arabia,Salzburg,TT,1935-07-12
+665,New Caledonia,Kandahar,SL,1972-09-21
+666,Iceland,São Paulo,DE,1952-03-24
+667,Armenia,St. Louis,FJ,1931-03-21
+668,Eritrea,Cusco,GN,1994-01-01
+669,Sudan,Pretoria,AG,1991-11-20
+670,Anguilla,Athens,ET,2019-12-25
+671,Turkmenistan,Melekeok,IE,1978-12-02
+672,Northern Mariana Islands,Tórshavn,NE,1959-11-06
+673,Chile,Tokyo,DE,1995-02-12
+674,Viet Nam,Iquitos,CI,1992-04-19
+675,Gabon,San Carlos de Bariloche,KH,2002-09-07
+676,Argentina,Skopje,EH,2019-09-17
+677,Martinique,Cartagena,BE,2001-10-05
+678,Kyrgyzstan,Weno,PF,1930-07-14
+679,Nauru,Veracruz,TL,1915-10-18
+680,AndorrA,Tripoli,CZ,1929-11-11
+681,China,Munich,DO,1974-03-09
+682,Somalia,Hamburg,BO,1936-11-14
+683,Burkina Faso,London,SI,1961-05-28
+684,Nicaragua,Pattaya,AF,1948-05-04
+685,Liberia,Doha,ZA,1917-01-01
+686,Swaziland,Malabo,AT,1942-12-11
+687,Guam,Tijuana,SC,2015-05-03
+688,South Africa,Kaliningrad,AQ,1928-04-01
+689,"Iran, Islamic Republic Of",Punta Arenas,NA,1909-08-09
+690,Chad,Dublin,MG,1961-05-17
+691,China,Mashhad,OM,2010-09-08
+692,Wallis and Futuna,Saint Petersburg,KW,1970-01-04
+693,Niue,Jacksonville,AW,1949-01-21
+694,Greenland,Oklahoma City,NE,1910-12-23
+695,Uzbekistan,Kuala Lumpur,GR,1932-04-13
+696,Sao Tome and Principe,Medina,KR,1946-08-22
+697,United Kingdom,Jeddah,BH,1995-08-06
+698,Trinidad and Tobago,Port-au-Prince,NL,1965-04-04
+699,Jordan,Caracas,AO,2015-04-21
+700,"Tanzania, United Republic of",Kingstown,MU,1918-04-21
+701,Uzbekistan,City of San Marino,KI,1939-07-05
+702,Guinea-Bissau,City of Halifax,SI,1944-04-30
+703,Poland,Taiyuan,LY,1927-02-13
+704,Uruguay,Baltimore,LK,1973-03-25
+705,Turkmenistan,San Fernando,CA,1994-02-28
+706,Lithuania,Lobamba,LR,1923-07-22
+707,"Cote D""Ivoire",Tel Aviv,VG,1914-05-24
+708,Guadeloupe,Louisville,NF,1944-08-06
+709,Sweden,Peshawar,LA,2008-05-04
+710,Saint Kitts and Nevis,St. Louis,MR,2002-12-01
+711,Antigua and Barbuda,Adana,AX,1918-01-09
+712,Kiribati,Bishkek,BD,1986-09-02
+713,New Zealand,Minsk,BM,1963-01-30
+714,Mayotte,Dhaka,CX,1985-10-14
+715,El Salvador,Nouméa,PF,1972-05-21
+716,New Zealand,Makati City,BD,1990-01-23
+717,"Macedonia, The Former Yugoslav Republic of",George Town,PK,1964-12-14
+718,Nepal,Accra,PR,1937-11-23
+719,Togo,Aberdeen,CS,1915-12-11
+720,Anguilla,Edmonton,MQ,1982-01-11
+721,Malta,Perth,LK,1950-11-02
+722,Ireland,Nantes,CC,1957-02-03
+723,Chad,Cairns,AL,1976-05-04
+724,Australia,Weno,PN,2018-10-11
+725,Saint Helena,Santa Cruz de Tenerife,TH,1907-12-21
+726,Western Sahara,Manaus,BS,2003-04-21
+727,Portugal,Tehran,EG,1984-09-10
+728,Western Sahara,Istanbul,GG,1978-08-26
+729,Iraq,Baku,DK,2002-01-20
+730,Nauru,Jerusalem,CC,1970-08-18
+731,Chad,Sri Jayawardenapura-Kotte,GD,1916-05-10
+732,Guyana,Luanda,PE,1964-05-02
+733,Åland Islands,Espoo,NZ,1917-02-15
+734,Monaco,Praia,ER,1907-12-28
+735,Maldives,Ciudad del Este,SK,1910-10-16
+736,United States,Pretoria,AM,1934-02-20
+737,Mexico,Nukuʻalofa,AE,1996-12-27
+738,Kazakhstan,Phuket (city),CX,1968-03-19
+739,Pakistan,Jayapura,FI,1916-02-10
+740,Grenada,Porto-Novo,NI,1940-02-12
+741,Turkey,Gangtok,MZ,1965-05-06
+742,Malta,Bern,RW,1918-07-07
+743,United States,Qingdao,LC,1900-05-31
+744,Egypt,Banda Aceh,MN,1904-10-04
+745,Zimbabwe,Wichita,AO,1903-05-28
+746,Seychelles,Philadelphia,KN,1995-11-01
+747,Belize,Greenwich,AQ,1944-10-17
+748,Pakistan,Lucknow,MW,2014-09-30
+749,"Lao People""S Democratic Republic",Handan,ST,1976-07-18
+750,Benin,Lilongwe,YT,1918-03-31
+751,Mayotte,Sana'a,MK,1968-09-21
+752,Antigua and Barbuda,Astana,GL,1987-11-14
+753,RWANDA,Kuching,BT,1937-08-08
+754,New Caledonia,Kyoto,ER,1966-06-27
+755,China,Kota Kinabalu,AQ,1954-05-12
+756,Finland,San José,GH,1900-03-22
+757,Timor-Leste,Naypyidaw,BD,1983-09-26
+758,Mauritania,Hai Phong,ZA,2007-12-01
+759,Romania,Luxembourg (city),IQ,1903-04-07
+760,Cook Islands,Auckland,FJ,1910-02-24
+761,Bulgaria,Muscat,VA,1924-12-15
+762,Netherlands Antilles,Perth,SR,1924-10-02
+763,Gambia,Moroni,EE,1965-01-09
+764,Finland,Balikpapan,TH,1994-02-17
+765,Germany,Rawalpindi,GH,1905-06-10
+766,Mali,Kaliningrad,KI,1999-02-16
+767,Haiti,Tartu,AE,1928-04-30
+768,Italy,Honolulu,NE,1915-07-02
+769,Fiji,Dunedin,CH,1938-12-08
+770,Gabon,Kuala Lumpur,JE,1980-08-30
+771,"Lao People""S Democratic Republic",Praia,AE,1930-08-11
+772,"Korea, Republic of",Casablanca,GR,1913-10-03
+773,Lesotho,Chaguanas,CC,1962-06-12
+774,Fiji,Andorra la Vella,IN,1981-07-17
+775,French Southern Territories,Stuttgart,LA,1974-08-22
+776,Sri Lanka,Dongguan,KR,1904-11-09
+777,Argentina,Mbabane,CR,1948-07-06
+778,Ethiopia,Porto-Novo,DE,1965-11-09
+779,"Macedonia, The Former Yugoslav Republic of",Seville,CI,2000-05-29
+780,Sudan,Koulikoro,AO,1994-09-26
+781,Argentina,Guwahati,UG,1909-06-30
+782,Dominica,St. Louis,BM,1946-03-31
+783,"Cote D""Ivoire",Hamilton,AW,1902-02-09
+784,Oman,Cartagena,MM,2002-06-03
+785,Cameroon,Mogadishu,VE,1983-04-02
+786,"Virgin Islands, British",Djibouti (city),HR,1919-04-23
+787,Zimbabwe,Chihuahua,BV,1960-05-08
+788,Aruba,Bangui,BH,2013-04-09
+789,Netherlands Antilles,Bilbao,CY,1954-11-02
+790,Tajikistan,Incheon,VE,1916-05-10
+791,Pitcairn,Edmonton,SL,1966-11-17
+792,South Georgia and the South Sandwich Islands,Malé,AI,1974-09-08
+793,Equatorial Guinea,Nairobi,LU,1988-08-16
+794,Svalbard and Jan Mayen,Nouakchott,SC,1988-03-13
+795,Pitcairn,Naypyidaw,BF,1972-01-25
+796,Morocco,Córdoba,TW,1904-03-02
+797,"Taiwan, Province of China",Mashhad,KH,1976-12-28
+798,"Virgin Islands, U.S.",Chicago,GG,1978-12-31
+799,New Zealand,Reykjavík,AO,1962-03-08
+800,Madagascar,Hagåtña,EG,1945-12-30
+801,Saint Vincent and the Grenadines,Faisalabad,BM,1915-01-19
+802,Togo,Lyon,SV,1973-06-30
+803,Monaco,Naples,BF,1900-04-01
+804,Albania,Guadalajara,MZ,1987-10-24
+805,"Moldova, Republic of",San Antonio,KH,1910-04-27
+806,Peru,Port Vila,EC,2012-05-06
+807,Pakistan,Montevideo,AF,1944-07-10
+808,"Congo, The Democratic Republic of the",Macapá,ST,1959-05-08
+809,Australia,Batticaloa,AE,1904-04-28
+810,Israel,Glasgow,PA,1937-01-24
+811,Wallis and Futuna,Bandung,CS,1979-06-24
+812,Jersey,Balikpapan,FM,1927-09-27
+813,Monaco,Sukhumi,ZA,2017-04-08
+814,Niue,Guayaquil,KN,2008-06-29
+815,Poland,Auckland,GD,1989-06-26
+816,Spain,Ambon,BI,2008-11-16
+817,Sweden,Livingstone,BJ,1937-09-21
+818,Argentina,Nouméa,NL,2005-07-10
+819,Netherlands Antilles,Kuala Lumpur,AS,1911-12-30
+820,Ghana,Indianapolis,JM,1950-06-16
+821,Yemen,Port Moresby,AX,1989-10-11
+822,Sudan,Huế,SA,1926-07-25
+823,Chile,Malacca Town,TH,1935-03-07
+824,Bangladesh,Kota Bharu,GU,1991-12-04
+825,Kyrgyzstan,Bandar Seri Begawan,BI,1925-08-08
+826,Sri Lanka,Busan,RU,1913-11-22
+827,New Zealand,Huế,BS,1978-06-26
+828,Nigeria,Valparaíso,AM,1935-11-02
+829,Philippines,Mersin,UG,1980-04-27
+830,Anguilla,Yellowknife,CD,1943-03-26
+831,Madagascar,Zamboanga City,IL,2019-07-11
+832,Lesotho,Malang,AL,1914-09-14
+833,Bouvet Island,Incheon,KH,1966-03-20
+834,Bahamas,Thiès,MX,1917-03-24
+835,Norfolk Island,Cayenne,MN,1917-12-21
+836,Lesotho,Greenwich,CS,1974-01-15
+837,Bhutan,Moscow,NF,2004-09-26
+838,Romania,Naples,BN,1958-07-14
+839,Liberia,Skopje,NO,1953-06-25
+840,Nigeria,Dongguan,BG,1994-01-01
+841,Tajikistan,Rochester,MM,1900-10-20
+842,Burundi,Guwahati,TG,1987-07-13
+843,Christmas Island,Douglas,LS,1990-06-10
+844,Chile,St. George's,AW,1986-05-27
+845,Montserrat,Busan,BY,1990-05-03
+846,Luxembourg,Prague,BD,1917-10-15
+847,Colombia,Pristina,SZ,1948-10-20
+848,Guadeloupe,Cardiff,CF,1950-07-08
+849,Niger,Sukhumi,GM,2017-08-30
+850,Jamaica,Cali,SH,1909-11-03
+851,Latvia,Omdurman,OM,2010-02-24
+852,Norway,Nakhon Ratchasima,SO,1992-02-16
+853,Norway,Cotonou,SK,2013-12-08
+854,Saint Lucia,Mata-Utu,NR,1914-09-02
+855,Madagascar,The Hague,TZ,1963-08-21
+856,Botswana,Dibrugarh,PK,1924-06-04
+857,Nauru,Ilhéus,BV,1913-12-21
+858,Ukraine,Denver,MG,2012-03-17
+859,"Congo, The Democratic Republic of the",Shanghai,GI,1900-11-12
+860,Singapore,Ottawa,LA,1991-07-31
+861,Kenya,Kuala Lumpur,DK,1944-06-30
+862,El Salvador,Rockhampton,PN,2008-10-31
+863,Seychelles,Gold Coast,KN,1966-07-19
+864,Antarctica,Mogadishu,GP,1964-06-29
+865,Syrian Arab Republic,Dili,KN,1941-10-12
+866,Madagascar,Abu Dhabi,KN,1995-01-27
+867,"Virgin Islands, British",Nice,AW,1939-09-01
+868,Cambodia,Raleigh,GW,2002-12-11
+869,Iraq,Campo Grande,SZ,1968-08-27
+870,Ecuador,Charlotte Amalie,GW,1916-08-13
+871,Chad,Providence,BW,1961-04-19
+872,Liechtenstein,Santa Cruz de Tenerife,VU,1979-07-30
+873,Oman,Quetzaltenango,MV,2018-06-27
+874,Palau,Ipoh,MG,2006-06-23
+875,Afghanistan,Bursa,MY,1999-10-19
+876,Malawi,Ponta Delgada,AR,1989-07-11
+877,Ireland,Saint John,OM,1997-05-08
+878,Solomon Islands,Sukhumi,DZ,1990-10-22
+879,Mexico,St. George's,KP,1934-11-28
+880,Chile,Chittagong,GP,2015-01-01
+881,"Cote D""Ivoire",Abuja,AO,1981-03-16
+882,Benin,Bamako,BG,1908-11-19
+883,Equatorial Guinea,Durango,AW,2016-03-23
+884,Vanuatu,Cali,GE,1912-08-29
+885,Tuvalu,Darwin,NA,1993-10-11
+886,Saint Vincent and the Grenadines,Padang,CG,1983-02-11
+887,Oman,Guangzhou,TH,1902-06-01
+888,Cameroon,Monrovia,LY,2001-05-04
+889,Lebanon,Philadelphia,VC,2019-01-17
+890,Tuvalu,Damascus,NZ,1972-01-05
+891,Nauru,Riverside,SB,2014-06-22
+892,Botswana,Ulan Bator,SR,1914-11-16
+893,Slovenia,Jamestown,VG,1974-09-12
+894,Antarctica,Francistown,CK,1953-12-07
+895,Greece,Mwanza,GG,1986-12-04
+896,Japan,Wuhan,BY,2015-12-23
+897,"Taiwan, Province of China",Rochester,DM,1980-12-06
+898,United Kingdom,Lyon,JO,2000-01-18
+899,Mauritius,Chennai,GD,1935-03-13
+900,Chad,Antananarivo,VU,1982-02-05
+901,Niue,Thiès,CM,1943-01-24
+902,Tokelau,Concepción,AS,2010-05-02
+903,"Korea, Republic of",Cartagena,LR,2010-03-31
+904,Uganda,Islamabad,AQ,1919-10-21
+905,Dominican Republic,Havana,NZ,1934-08-30
+906,Kenya,Skopje,MX,1979-12-17
+907,Uganda,Rosario,HM,1997-01-28
+908,Nauru,Barcelona,KR,1968-10-16
+909,"Palestinian Territory, Occupied",Marrakech,AR,1984-10-28
+910,Guadeloupe,Ankara,KP,1924-06-23
+911,Bosnia and Herzegovina,Antofagasta,AL,1943-05-25
+912,Mali,Las Vegas,IR,1909-07-30
+913,"Cote D""Ivoire",Chittagong,LI,1957-03-22
+914,American Samoa,Ludhiana,ET,2006-04-06
+915,Viet Nam,Anadyr (town),VA,1958-07-04
+916,Tuvalu,Anchorage,CY,1935-11-23
+917,Congo,The Hague,AR,1980-06-14
+918,Jamaica,Hanoi,CZ,1996-12-21
+919,Hungary,Paramaribo,KY,1902-05-27
+920,Pitcairn,Chennai,AT,1950-09-21
+921,Uganda,Omsk,CC,1943-05-19
+922,Solomon Islands,Kaohsiung,BB,1955-07-08
+923,Tonga,Accra,LR,1910-10-11
+924,Chad,Novosibirsk,GI,1950-01-11
+925,Argentina,Dili,VI,1917-08-05
+926,Faroe Islands,Libreville,MA,1956-06-18
+927,Ecuador,Las Palmas de Gran Canaria,GF,1948-11-23
+928,Solomon Islands,Melekeok,US,1980-07-21
+929,Mali,Graz,FJ,1966-09-22
+930,Greece,Luxor,BZ,1920-12-21
+931,Azerbaijan,Quebec City,BM,1906-04-29
+932,Russian Federation,Douala,WF,1978-09-15
+933,Saint Kitts and Nevis,Chicago,BT,1983-08-30
+934,Yemen,Doha,JO,1998-09-07
+935,Austria,Port Elizabeth,SV,1914-03-16
+936,Iraq,Gaza,GS,1969-04-02
+937,India,San Salvador,RO,1903-02-17
+938,Pitcairn,Phnom Penh,ZM,1962-07-20
+939,Guernsey,Asunción,NZ,1984-11-04
+940,Bahrain,Medellín,MH,1925-07-05
+941,Saint Lucia,Kota Kinabalu,HK,2014-08-29
+942,Guam,Brussels,TC,1911-10-06
+943,Sao Tome and Principe,Francistown,LU,1977-01-23
+944,Yemen,Arequipa,JM,1943-01-02
+945,Christmas Island,Yamoussoukro,VU,1966-06-13
+946,Antigua and Barbuda,Lagos,SB,1990-02-08
+947,"Korea, Republic of",Miami,TK,1979-03-20
+948,"Tanzania, United Republic of",Auckland,HM,1980-03-29
+949,Nicaragua,Bulawayo,ML,1904-02-29
+950,Guinea-Bissau,Batticaloa,HM,1904-09-21
+951,China,Winnipeg,HK,1924-11-02
+952,Uruguay,Stanley,KP,1954-09-29
+953,Yemen,Kota Kinabalu,KP,1929-08-18
+954,Seychelles,Roseau,KY,1909-12-27
+955,Cook Islands,Yerevan,EC,1988-04-10
+956,Bolivia,Tehran,DK,1958-10-13
+957,Bahrain,Samara,TZ,2011-02-15
+958,Paraguay,Cannes,AZ,1964-09-03
+959,Martinique,Surabaya,TT,1990-04-25
+960,Burkina Faso,Maracaibo,SN,1933-01-08
+961,Heard Island and Mcdonald Islands,Douala,CM,1958-04-17
+962,Tuvalu,Turin,AD,2006-08-19
+963,Burundi,Cannes,UZ,1988-12-19
+964,Monaco,Santo Domingo,GM,1985-09-15
+965,Jamaica,Kabul,TG,1999-01-27
+966,Czech Republic,Cebu City,CZ,1972-06-10
+967,Canada,Las Palmas de Gran Canaria,FR,1906-10-03
+968,Martinique,Sana'a,MO,1996-04-19
+969,French Polynesia,Chuí,VG,1963-03-17
+970,Norway,Graz,RO,1992-09-27
+971,Faroe Islands,Oklahoma City,TC,1953-11-10
+972,Uruguay,Karachi,NZ,1969-10-28
+973,Nauru,Raleigh,CG,2016-03-28
+974,Italy,Brazzaville,GA,1921-08-20
+975,"Virgin Islands, British",Oslo,HU,1944-12-01
+976,Argentina,Dammam,DM,2001-10-06
+977,United States,Dushanbe,BA,1951-12-23
+978,Switzerland,Ho Chi Minh City,ID,1998-01-08
+979,Bangladesh,Bloemfontein,GQ,1913-12-21
+980,Peru,Cayenne,YT,1993-06-30
+981,Kenya,Sofia,AF,2013-08-21
+982,Yemen,Stepanakert,SH,1981-10-03
+983,Grenada,Banda Aceh,ST,1947-05-23
+984,Slovakia,City of San Marino,HN,1931-09-12
+985,Guatemala,Libreville,SD,2017-02-21
+986,"Korea, Republic of",Bangalore,NZ,1933-12-23
+987,Niue,Sydney,VN,1933-08-30
+988,South Africa,Durban,PW,1999-03-25
+989,Mauritius,Beirut,LA,2006-03-29
+990,Central African Republic,Thimphu,TZ,1984-02-29
+991,Mexico,South Tarawa,GF,2003-11-16
+992,New Zealand,Ashgabat,GU,1981-12-12
+993,Honduras,Samara,AQ,1971-02-24
+994,Denmark,Milan,IE,2004-04-29
+995,"Virgin Islands, U.S.",Murmansk,AS,1966-03-19
+996,Panama,Quetzaltenango,FM,1988-01-23
+997,Mongolia,Ottawa,WS,1976-09-07
+998,Benin,Gold Coast,VA,2011-06-10
+999,Bolivia,Bissau,TW,1995-01-07
+1000,British Indian Ocean Territory,Auckland,SE,2002-07-21
