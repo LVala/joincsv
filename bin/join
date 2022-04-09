@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+"""
+JoinCSV - CLI programm to join csv files by specified column in different modes
+more information in README.md 
+"""
+
 import os
 import sys
 
