@@ -107,6 +107,10 @@ def main() -> int:
     left_path = os.path.normpath(sys.argv[1])
     right_path = os.path.normpath(sys.argv[2])
 
+    if not left_path.endswith(".csv") or not right_path.endswith(".csv"):
+        print("Error: files must have .csv extension")
+        exit(1)
+
     join_csv(left_path, right_path, sys.argv[3], join_type)
 
     return 0;
