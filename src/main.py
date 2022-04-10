@@ -57,47 +57,35 @@ def join_csv(left_csv_path: str, right_csv_path: str, col_name: str, mode: int) 
     merged based on choosen @mode, more information in README.md
     """
     header = gen_header(left_csv_path, right_csv_path, col_name)
-
-    # generate new filename, makes sure no file is overwritten
-    i = 1
-    new_name = "joined_" + str(i) + ".csv"
-    while os.path.exists(new_name):
-        i += 1
-        new_name = "joined_" + str(i) + ".csv"
+  
+    writer = csv.DictWriter(sys.stdout, fieldnames=header, quoting=csv.QUOTE_MINIMAL, dialect='unix')
+    writer.writeheader()
     
-    try:
-        with open(new_name, "w", newline="") as file:
-            writer = csv.DictWriter(file, fieldnames=header, quoting=csv.QUOTE_MINIMAL)
-            writer.writeheader()
-            
-            # iterates over file A and for every element searches for matching elements in file B
-            if mode in {INNER, LEFT}:
-                left_csv = read_csv(left_csv_path)
-                for left_row in left_csv:
-                    right_csv = read_csv(right_csv_path)
-                    was_written = False
-                    for right_row in right_csv:
-                        if right_row[col_name] == left_row[col_name]:
-                            writer.writerow(left_row | right_row)
-                            was_written = True
-                    if mode == LEFT and not was_written:
-                        writer.writerow(left_row)
+    # iterates over file A and for every element searches for matching elements in file B
+    # and, depending on the mode, writes to stdout
+    if mode in {INNER, LEFT}:
+        left_csv = read_csv(left_csv_path)
+        for left_row in left_csv:
+            right_csv = read_csv(right_csv_path)
+            was_written = False
+            for right_row in right_csv:
+                if right_row[col_name] == left_row[col_name]:
+                    writer.writerow(left_row | right_row)
+                    was_written = True
+            if mode == LEFT and not was_written:
+                writer.writerow(left_row)
 
-            elif mode == RIGHT:
-                right_csv = read_csv(right_csv_path)
-                for right_row in right_csv:
-                    left_csv = read_csv(left_csv_path)
-                    was_written = False
-                    for left_row in left_csv:
-                        if right_row[col_name] == left_row[col_name]:
-                            writer.writerow(left_row | right_row)
-                            was_written = True
-                    if not was_written:
-                        writer.writerow(right_row)
-
-    except IOError as e:
-        print(f"Error with writing to new file: {e.strerror}")
-        exit(1)
+    elif mode == RIGHT:
+        right_csv = read_csv(right_csv_path)
+        for right_row in right_csv:
+            left_csv = read_csv(left_csv_path)
+            was_written = False
+            for left_row in left_csv:
+                if right_row[col_name] == left_row[col_name]:
+                    writer.writerow(left_row | right_row)
+                    was_written = True
+            if not was_written:
+                writer.writerow(right_row)
 
 def main() -> int:
     if len(sys.argv) != 5 and len(sys.argv) != 4:
