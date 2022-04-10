@@ -5,7 +5,7 @@
 This repository contains tiny CLI program in pure Python that can join csv files by common, specified column in 3 different modes (left, right, inner join, analogical to SQL ```JOIN```) and writes the result to ```stdout```. Works for files with sizes greater than avaiable memory thanks to use of Python generators.
 
 ## Instalation
-This tool was developed and tested on Linux, although is should work on MacOS and FreeBSD as well. Not shure about Windows and
+This tool was developed and tested on Linux, although is should work on MacOS and other Unix-like systems as well. Not shure about Windows and
 its carriage returns, but I tried to make it the most OS proof as I could, so it should work with very slight changes.
 
 On Linux:
