@@ -1,5 +1,5 @@
-<h1 align="center"> JoinCSV
-<h3 align="center"> Join <i>.csv</i> files based on specified column
+<h1 align="center">JoinCSV</h1>
+<h3 align="center">Join <i>.csv</i> files based on specified column</h3>
 
 ## About
 This repository contains tiny CLI program in pure Python that can join csv files by common, specified column in 3 different modes (left, right, inner join, analogical to SQL ```JOIN```) and writes the result to ```stdout```. Works for files with sizes greater than avaiable memory thanks to use of Python generators.
